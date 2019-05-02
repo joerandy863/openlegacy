@@ -1,1 +1,1 @@
-# openlegacy
+# openlegacyapi
